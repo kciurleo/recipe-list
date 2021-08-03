@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>here's a change</h1>
+    <h1>this is the dev version</h1>
   </div>
 </template>
 
