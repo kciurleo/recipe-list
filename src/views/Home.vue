@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="content">
     <TestComponent />
     <h2>this is also where you html </h2>
     <p>this is a view though which is suppoed to be like a static page like

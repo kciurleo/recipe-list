@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="content">
     <h1>hi sarah this is where you html</h1>
-    <p>everything has to go into one big div in the template every 
+    <p>everything has to go into one big div with class="content" in the template every 
     time but after that you can do div section etc however ya want</p>
     <p>this is a test component within the homepage to fiddle around with</p>
     <p>components are things that you put within a page basically, 
