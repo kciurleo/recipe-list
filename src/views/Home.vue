@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <TestComponent />
-    <h2>this is also where you html </h2>
+    <h2>this is also where you can html </h2>
     <p>this is a view though which is suppoed to be like a static page like
     a home or an about or something, which you put the compononents (sections,
     whatever) onto in some sort of layout (it's actually probably bad practice
